@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mCopy play resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/index.html,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/index.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/img/glyphicons-halflings-white.png,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/img/glyphicons-halflings-white.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/img/glyphicons-halflings.png,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/img/glyphicons-halflings.png)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/angular.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/angular.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/app.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/app.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/bootstrap.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/bootstrap.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/angular-resource.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/angular-resource.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/toastr.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/toastr.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/js/jquery-1.9.1.js,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/js/jquery-1.9.1.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/css/toastr.css,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/css/toastr.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/css/bootstrap.css,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/css/bootstrap.css)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/views/stories/list.html,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/views/stories/list.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/views/stories/create.html,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/views/stories/create.html)[0m
+[0m[[0mdebug[0m] [0m	(/home/hardik/projects/getbookmarks/public/views/stories/detail.html,/home/hardik/projects/getbookmarks/target/scala-2.10/classes/public/views/stories/detail.html)[0m
